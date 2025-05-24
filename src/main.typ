@@ -67,7 +67,7 @@ $ mat(delim: "|", a, b, c; d, e, f; g, h, i)
 - b mat(delim: "|", d, f; g, i)
 + c mat(delim: "|", d, e; g, h) text(".") $
 
-- #emph[Signs the wrong way round for perturbation theory.] The signs in the denominator are always such that the second-order to the ground state energy is negative, and the order in the denominator is the other way round.
+- #emph[Signs the wrong way round for perturbation theory.] The signs in the denominator are always such that the second-order correction to the ground state energy is negative, and the order in the numerator is the other way round.
 
 - #emph[Forgetting the $1\/2m$ factor in the Hamiltonian.] It should be $-hbar^2\/2m$.
 -
