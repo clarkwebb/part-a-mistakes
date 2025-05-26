@@ -58,6 +58,10 @@
   
 ]
 
+= General advice
+- If the question gives you an approximation, use it!
+- Read the question carefully and think about what solution you want to obtain before starting complicated maths.
+
 = Quantum mechanics
 - #emph[Forgetting to square when normalising a state, or not normalising at all.]
 - #emph[$0 dot 1$ is not $1$ (for example, in $j(j+1)$).]
