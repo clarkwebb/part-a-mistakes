@@ -62,6 +62,9 @@
 - If the question gives you an approximation, use it!
 - Read the question carefully and think about what solution you want to obtain before starting complicated maths.
 
+= Electromagnetism
+- #emph[The magnetic field outside an object is not just the external field.] Remember that the object changes the field as well.
+
 = Quantum mechanics
 - #emph[Forgetting to square when normalising a state, or not normalising at all.]
 - #emph[$0 dot 1$ is not $1$ (for example, in $j(j+1)$).]
@@ -77,7 +80,7 @@ $ ket(delta psi_0^((1))) &= sum_(n=1)^infinity braket(n, hat(H), 0)/(E_0 - E_n) 
 delta E_0^((2)) &= sum_(n=1)^infinity (lr(|braket(n, hat(H), 0)|)^2)/(E_0-E_n) <= 0 text(".") $
 
 - #emph[Forgetting the $1\/2m$ factor in the Hamiltonian.] It should be $-hbar^2\/2m$.
-- #emph[$Delta x Delta p$] is not $<=hbar\/2$.
+- #emph[$Delta x Delta p$ is not $<=hbar\/2$.]
 $ Delta x Delta p >= hbar /2 text(".") $
 
 - #emph[The ground state is not zero energy.]
