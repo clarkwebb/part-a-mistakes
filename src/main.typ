@@ -54,7 +54,7 @@
   )
 
   Mia Clark-Webb et al.\
-  #today.display("[day] [month repr:long] [year]")
+  #today.display("[day padding:none] [month repr:long] [year]")
   
 ]
 
