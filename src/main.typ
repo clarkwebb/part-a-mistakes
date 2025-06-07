@@ -53,7 +53,8 @@
     ]
   )
 
-  Mia Clark-Webb et al.\
+  Mia Clark-Webb et al. \
+  #link("mailto:mia.clark-webb@sjc.ox.ac.uk") \
   #today.display("[day padding:none] [month repr:long] [year]")
   
 ]
@@ -71,6 +72,7 @@ $ U = - dv(, beta) ln cal(Z) + mu N text(".") $
 
 = Electromagnetism
 - The magnetic field outside an object is not just the external field. Remember that the object changes the field as well.
+- When finding the power transmission coefficient, compare the magnitudes of the Poynting vectors.
 
 = Quantum mechanics
 - Don't forget to square when normalising a state, and don't forget to normalise in the first place.
@@ -99,3 +101,5 @@ $ dv(hat(Q), t) = 1/(upright(i)hbar) [hat(Q), hat(H)] + pdv(hat(Q), t) text(".")
 = Miscellaneous
 - $upright(e)^0 = 1$, not $0$.
 - In spherical coordinates, the contributors to the Jacobian are $1$ for $dd(r)$, $r$ for $dd(theta)$, and $r sin theta$ for $dd(phi)$.
+- In spherical coordinates, the divergence is not $pdv(vectorbold(F), r)$:
+$ div vectorbold(F) = 1/(r^2) pdv((r^2 F_r), r) + dots text("(just use the Data Sheet™, it's easier).") $
