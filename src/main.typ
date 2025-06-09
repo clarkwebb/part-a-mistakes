@@ -68,7 +68,7 @@
 - $p = 2 u \/ 3$ for #emph[any] non-relativistic gas.
 - Don't forget to divide by $N !$ for the partition function of a gas whose particles are indistinguishable.
 - Don't forget the chemical potential term in the energy of a gas in an open system:
-$ U = - dv(, beta) ln cal(Z) + mu N text(".") $
+$ U = - pdv(ln cal(Z), beta) + mu N text(".") $
 
 = Electromagnetism
 - The magnetic field outside an object is not just the external field. Remember that the object changes the field as well.
